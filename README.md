@@ -1,15 +1,15 @@
-# 🚀 Acelerador de Cursos E-Learning
+# Acelerador de Cursos E-Learning
 
 Scripts JavaScript para acelerar vídeos, áudios e desbloquear navegação em cursos e-learning baseados em Storyline 360.
 
-## 📋 Sobre
+## Sobre
 
 Este projeto contém scripts para otimizar a experiência em plataformas de e-learning, permitindo:
 - Acelerar reprodução de vídeos e áudios
 - Desbloquear botões de navegação durante narrações
 - Avançar slides automaticamente (opcional)
 
-## ⚠️ Aviso Legal
+## Aviso Legal
 
 **Este projeto é apenas para fins educacionais e de pesquisa.**
 
@@ -18,11 +18,11 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 - Respeite as políticas de uso da plataforma
 - O autor não se responsabiliza pelo uso indevido
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 ### Scripts Disponíveis
 
-1. **`desbloquear_botoes.js`** ⭐ Recomendado
+1. **`desbloquear_botoes.js`** (Recomendado)
    - Apenas desbloqueia botões
    - Você controla quando avançar
    - Mais seguro e discreto
@@ -37,7 +37,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
    - Velocidade moderada (4x)
    - Simula interações do usuário
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 
@@ -81,7 +81,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 })();
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 .
@@ -91,7 +91,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 ├── CONTRIBUTING.md
 │
 ├── scripts/
-│   ├── desbloquear_botoes.js         # ⭐ Apenas desbloqueia botões
+│   ├── desbloquear_botoes.js         # Apenas desbloqueia botões
 │   ├── acelerar_curso.js              # Aceleração completa
 │   ├── acelerar_curso_STEALTH.js      # Versão stealth
 │   ├── acelerar_NARRADOR.js           # Focado em narração
@@ -106,7 +106,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
     └── uso_basico.js
 ```
 
-## 🔧 Funcionalidades Técnicas
+## Funcionalidades Técnicas
 
 ### Desbloqueio de Botões
 - Remove atributo `disabled`
@@ -123,7 +123,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 - Clica automaticamente em intervalos
 - Suporta múltiplos idiomas
 
-## 🛡️ Segurança e Detecção
+## Segurança e Detecção
 
 ### Níveis de Risco
 
@@ -141,7 +141,7 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 
 Veja `docs/SEGURANCA.md` para mais detalhes.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Problema: Script não funciona
 
@@ -165,28 +165,28 @@ Veja `docs/SEGURANCA.md` para mais detalhes.
 
 Veja `docs/TROUBLESHOOTING.md` para mais soluções.
 
-## 📝 Notas Técnicas
+## Notas Técnicas
 
 - Funciona com Storyline 360
 - Requer conteúdo em iframe
 - Compatível com SCORM
 - Testado no Chrome/Chromium
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre como contribuir.
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🙏 Agradecimentos
+## Agradecimentos
 
 - Comunidade de desenvolvedores JavaScript
 - Documentação do MDN Web Docs
 - Contribuidores do projeto
 
-## 📞 Suporte
+## Suporte
 
 Para questões e suporte:
 - Abra uma [Issue](../../issues) no GitHub
@@ -195,4 +195,4 @@ Para questões e suporte:
 
 ---
 
-**⚠️ Lembre-se**: Use com responsabilidade e apenas em cursos próprios ou com autorização.
+**Aviso**: Use com responsabilidade e apenas em cursos próprios ou com autorização.
