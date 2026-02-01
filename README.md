@@ -85,23 +85,25 @@ Este projeto contém scripts para otimizar a experiência em plataformas de e-le
 
 ```
 .
-├── README.md                          # Este arquivo
-├── LICENSE                            # Licença MIT
-├── .gitignore                         # Arquivos ignorados
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── CONTRIBUTING.md
 │
 ├── scripts/
 │   ├── desbloquear_botoes.js         # ⭐ Apenas desbloqueia botões
 │   ├── acelerar_curso.js              # Aceleração completa
 │   ├── acelerar_curso_STEALTH.js      # Versão stealth
-│   └── acelerar_NARRADOR.js           # Focado em narração
+│   ├── acelerar_NARRADOR.js           # Focado em narração
+│   └── acelerar_NARRADOR_SIMPLES.js   # Versão simplificada
 │
 ├── docs/
-│   ├── INSTALACAO.md                  # Guia de instalação
-│   ├── SEGURANCA.md                   # Informações de segurança
-│   └── TROUBLESHOOTING.md             # Solução de problemas
+│   ├── INSTALACAO.md
+│   ├── SEGURANCA.md
+│   └── TROUBLESHOOTING.md
 │
 └── exemplos/
-    └── uso_basico.js                   # Exemplos de uso
+    └── uso_basico.js
 ```
 
 ## 🔧 Funcionalidades Técnicas
@@ -172,13 +174,7 @@ Veja `docs/TROUBLESHOOTING.md` para mais soluções.
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas! Por favor:
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
+Contribuições são bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre como contribuir.
 
 ## 📄 Licença
 
