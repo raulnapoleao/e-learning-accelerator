@@ -40,15 +40,17 @@ SOLUCAO_*.md
 TESTE_*.md
 comandos_uteis_console.md
 README_ACELERACAO.md
-acelerar_curso_*.js
-acelerar_IFRAME_*.js
-script_IFRAME_*.js
-diagnostico_*.js
-teste_*.js
-PARAR_*.js
-RESTAURAR_*.js
-permitir_*.js
-acelerar_NARRADOR_*.js
+
+# Scripts antigos na raiz (mas não em scripts/)
+/acelerar_curso_*.js
+/acelerar_IFRAME_*.js
+/script_IFRAME_*.js
+/diagnostico_*.js
+/teste_*.js
+/PARAR_*.js
+/RESTAURAR_*.js
+/permitir_*.js
+/acelerar_NARRADOR_*.js
 
 # Arquivos de teste
 test/
